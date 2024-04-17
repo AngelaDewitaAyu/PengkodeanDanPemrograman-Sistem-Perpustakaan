@@ -19,3 +19,4 @@ Aplikasi website perpustakaan sederhana, menggunakan php native
 2. Saat ingin meminjam buku, secara otomatis di tabel buku di kurangi.
 
 ERD
+![erd](https://github.com/AngelaDewitaAyu/PengkodeanDanPemrograman-Sistem-Perpustakaan/assets/167239973/a0d1992b-b3af-4185-9d09-11b685fd78d0)

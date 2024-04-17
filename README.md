@@ -17,3 +17,5 @@ Aplikasi website perpustakaan sederhana, menggunakan php native
 1. saat mengembalikan buku yang di pinjam, secara otomatis tabel buku akan di tambahkan 1 buku.
 
 2. Saat ingin meminjam buku, secara otomatis di tabel buku di kurangi.
+
+ERD
